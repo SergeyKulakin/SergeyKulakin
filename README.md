@@ -1,6 +1,6 @@
 ## Hello, I'm Sergey!
 
-#### I'm HSE student.
+#### I'm HSE University student.
 ##### Specialty: "Machine learning and high-load systems"
 
 #### Skills and Tools:
